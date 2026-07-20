@@ -6,3 +6,4 @@
 
 ## Записи
 - Ubuntu Server + SSH](ubuntu-ssh.md)
+- Docker.sh
