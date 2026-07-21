@@ -246,4 +246,52 @@ Today I successfully:
 - Deployed my first Nginx web server in Docker.
 - Verified network connectivity from another machine.
 
+  ---
+
+# 🧠 Architecture Overview
+
+Understanding the environment hierarchy is important before working with Docker.
+
+```text
+My PC
+└── VirtualBox
+    └── Ubuntu Server
+        └── Docker Engine
+            └── Nginx Container
+                ├── File System
+                ├── Processes
+                └── Web Server
+```
+
+## Components
+
+**My PC**
+- Physical Windows computer.
+
+**VirtualBox**
+- Virtualization platform that runs the Ubuntu Server virtual machine.
+
+**Ubuntu Server**
+- Host operating system where Docker is installed.
+
+**Docker Engine**
+- Container runtime responsible for creating and managing containers.
+
+**Nginx Container**
+- An isolated Linux environment running the Nginx web server.
+- Has its own filesystem.
+- Runs its own processes.
+- Shares the host's Linux kernel.
+
+---
+
+### Key Idea
+
+A Docker container is **not a virtual machine**.
+
+It does not include its own operating system kernel.
+Instead, it shares the kernel of the host operating system while keeping applications isolated.
+
+This makes containers lightweight, fast, and ideal for modern infrastructure.
+
 This environment will become the foundation of my home lab for Linux administration, networking and cybersecurity.
