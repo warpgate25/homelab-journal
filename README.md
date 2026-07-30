@@ -13,8 +13,8 @@
 | **03** | **Docker Compose** | Multi-container Orchestration, Network Isolation | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/04-docker-compose-lab.md) |
 | **04** | **Network Packet Analysis** | `tcpdump`, PCAP Inspection, HTTP Traffic Capture | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/05-tcpdump-analysis.md) |
 | **05** | **Nginx Log Analysis** | Access Logs, Reconnaissance & SQLi Detection, One-Liners | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/06-nginx-log-analysis.md) |
-| **06** | **Automated Scanner Detection** | Nmap & Nikto Fingerprinting, Bad User-Agents | ![In Progress](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square) | *In Progress* |
-| **07** | **Centralized Logging** | Rsyslog / Vector, Log Aggregation & Parsing | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square) | *Pending* |
+| **06** | **Automated Scanner Detection** | Nmap & Nikto Fingerprinting, Bad User-Agents | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/07-scanner-detection.md) |
+| **07** | **Centralized Logging** | Rsyslog / Vector, Log Aggregation & Parsing | ![In Progress](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square) | *In Progress* |
 | **08** | **Windows Server 2022 & AD** | Domain Controller, Kerberos, Event Logs (WinEvent) | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square) | *Pending* |
 | **09** | **Monitoring Stack** | SIEM / Elastic Stack / Grafana / Syslog | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square) | *Pending* |
 | **10** | **Cybersecurity Detection Lab** | Attack Simulation & Incident Response | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square) | *Pending* |
