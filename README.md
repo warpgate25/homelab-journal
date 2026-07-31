@@ -10,7 +10,7 @@
 | :---: | :--- | :--- | :---: | :---: |
 | **01** | **Ubuntu Server + SSH** | Hardening, Auth Logs, Brute-Force Detection | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/01-ssh-log-analysis.md) |
 | **02** | **Docker & Containers** | Containerization, Isolation, Container Log Inspection | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/03-docker-basics.md) |
-| **03** | **Docker Compose** | Multi-container Orchestration, Network Isolation | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/04-docker-compose-lab.md) |
+| **03** | **Docker Compose** | Multi-container Orchestration, Network Isolation | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/04-docker-compose.md) |
 | **04** | **Network Packet Analysis** | `tcpdump`, PCAP Inspection, HTTP Traffic Capture | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/05-tcpdump-analysis.md) |
 | **05** | **Nginx Log Analysis** | Access Logs, Reconnaissance & SQLi Detection, One-Liners | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/06-nginx-log-analysis.md) |
 | **06** | **Automated Scanner Detection** | Nmap & Nikto Fingerprinting, Bad User-Agents | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/07-scanner-detection.md) |
