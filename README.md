@@ -14,7 +14,7 @@
 | **04** | **Network Packet Analysis** | `tcpdump`, PCAP Inspection, HTTP Traffic Capture | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/05-tcpdump-analysis.md) |
 | **05** | **Nginx Log Analysis** | Access Logs, Reconnaissance & SQLi Detection, One-Liners | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/06-nginx-log-analysis.md) |
 | **06** | **Automated Scanner Detection** | Nmap & Nikto Fingerprinting, Bad User-Agents | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/07-scanner-detection.md) |
-| **07** | **Centralized Logging** | Rsyslog / Vector, Log Aggregation & Parsing | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/08-centralized-logging Rsyslog.md) |
+| **07** | **Centralized Logging** | Rsyslog / Vector, Log Aggregation & Parsing | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/08-centralized-loggingRsyslog.md) |
 | **08** | **Windows Server 2022 & AD** | Domain Controller, Kerberos, Event Logs (WinEvent) | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/09-windows-ad-kerberos-logs.md) |
 | **09** | **Monitoring Stack** | SIEM / Elastic Stack / Grafana / Syslog | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square) | *Pending* |
 | **10** | **Cybersecurity Detection Lab** | Attack Simulation & Incident Response | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square) | *Pending* |
