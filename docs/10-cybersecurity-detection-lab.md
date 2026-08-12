@@ -1,4 +1,3 @@
-```markdown
 # Модуль 10: Cybersecurity Detection Lab & Incident Response
 
 ## 📌 Описание модуля
@@ -13,7 +12,7 @@
   ```powershell
   ssh hacker_test@192.168.1.207
 
-Детекция в Grafana (LogQL):
+  Детекция в Grafana (LogQL):
 
 Фрагмент кода
 {job="varlogs"} |= "Failed password"
