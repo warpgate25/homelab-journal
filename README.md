@@ -16,8 +16,8 @@
 | **06** | **Automated Scanner Detection** | Nmap & Nikto Fingerprinting, Bad User-Agents | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/07-scanner-detection.md) |
 | **07** | **Centralized Logging** | Rsyslog / Vector, Log Aggregation & Parsing | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/08-centralized-loggingRsyslog.md) |
 | **08** | **Windows Server 2022 & AD** | Domain Controller, Kerberos, Event Logs (WinEvent) | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/09-windows-ad-kerberos-logs.md) |
-| **09** | **Monitoring Stack** | SIEM / Elastic Stack / Grafana / Syslog | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square) | *Pending* |
-| **10** | **Cybersecurity Detection Lab** | Attack Simulation & Incident Response | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square) | *Pending* |
+| **09** | **Monitoring Stack** | SIEM / Elastic Stack / Grafana / Syslog | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/09-monitoring-stack.md) |
+| **10** | **Cybersecurity Detection Lab** | Attack Simulation & Incident Response | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) | [`Read Report`](docs/10-cybersecurity-detection-lab.md) |
 
 ---
 
@@ -26,4 +26,5 @@
 * **Web & Network:** Nginx, OpenSSH, tcpdump
 * **Analysis & CLI:** Bash, `journalctl`, `grep`, `awk`, `cut`, `sort`, `uniq`, `wc`, PowerShell, Event Viewer
 * **Containerization:** Docker, Docker Compose
+* **SIEM & Monitoring:** Grafana, Loki, Promtail, LogQL
 * **Identity & Security:** Active Directory (AD DS), Kerberos, WinEvent Audit
